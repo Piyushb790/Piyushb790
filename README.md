@@ -1,3 +1,6 @@
+# My Portfolio —> [👨‍💻 click me](https://piyushbhatt.netlify.app/ )
+<br/>
+
 ### Hi there, I'm Piyush 👋
 
 - 🔭 I’m currently working on building beautiful webpages and Websites using React, Javascript, Tailwind Css, Html, and Css  .
@@ -9,7 +12,7 @@
 
 ### My Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-bhattit06/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piyush_11_11/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/piyush-bhattit06/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/piyush_11_11/)
 
 
