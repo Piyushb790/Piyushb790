@@ -1,4 +1,4 @@
-# My Portfolio —> [👨‍💻 click me](https://piyushbhatt.netlify.app/ )
+# My Portfolio —> [👨‍💻](https://piyushbhatt.netlify.app/ )
 <br/>
 
 ### Hi there, I'm Piyush 👋
