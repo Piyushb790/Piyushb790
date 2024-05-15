@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on building beautiful webpages and Websites using React, Javascript, Tailwind Css, Html, and Css  .
 - 📱 I'm also able to make Responsive and Mobile Friendly Websites.
-- 🌱 I’m currently learning Fullstack JavaScript Developer Course from Ineuron.
+- 🌱 I’m currently learning new technologies.
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=react,js,tailwindcss,bootstrap,html,css,git)](https://skillicons.dev)
