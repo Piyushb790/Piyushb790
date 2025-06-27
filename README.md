@@ -1,4 +1,4 @@
-# My Portfolio —> [deploy](https://piyush-dev06.netlify.app/)
+# My Portfolio —> [live link](https://piyush-dev06.netlify.app/)
 <br/>
 
 ### Hi there, I'm Piyush 👋
